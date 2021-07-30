@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16560934/serhatkoyuncu)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:serhat_koyuncu@icloud.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serhatkoyuncu)
-[![website](https://img.shields.io/badge/%20-codementor-orange?&style=for-the-badge&logo=codementor&logoColor=white)](https://www.codementor.io/@serhatkoyuncu)
+[![website](https://img.shields.io/badge/%20-codementor-orange?&style=for-the-badge&logo=phonebook&logoColor=white)](https://www.codementor.io/@serhatkoyuncu)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatkoyuncu" alt="serhatkoyuncu" /> </p>
 
