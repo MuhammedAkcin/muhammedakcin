@@ -50,13 +50,15 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 ## 📽 Projects
-<a href="https://serhatkoyuncu.github.io/Random-User-App/" target="_blank"> <img src="" height="30"/> </a>
-<a href="https://serhatkoyuncu.github.io/Language-Card/" target="_blank"> <img src="" height="30"/> </a>
-<a href="https://serhatkoyuncu.github.io/Task-Tracker/" target="_blank"> <img src="" height="30"/> </a>
-<a href="https://serhatkoyuncu.github.io/Bootstrap-Final-Project/" target="_blank"> <img src="" height="30"/> </a>
-<a href="https://serhatkoyuncu.github.io/Tour-Places/" target="_blank"> <img src="" height="30"/> </a>
-<a href="https://serhatkoyuncu.github.io/Find-the-number-game/" target="_blank"> <img src="" height="30"/> </a>
-<a href="https://serhatkoyuncu.github.io/Ios-Calculator/" target="_blank"> <img src="" height="30"/> </a>
+<ul>
+  <li><a href="https://serhatkoyuncu.github.io/Random-User-App/" target="_blank"> Random User App </a></li>
+  <li><a href="https://serhatkoyuncu.github.io/Language-Card/" target="_blank"> Language Card </a></li>
+  <li><a href="https://serhatkoyuncu.github.io/Task-Tracker/" target="_blank"> Task Tracker </a></li>
+  <li><a href="https://serhatkoyuncu.github.io/Bootstrap-Final-Project/" target="_blank"> Bootstrap Final Project </a></li>
+  <li><a href="https://serhatkoyuncu.github.io/Tour-Places/" target="_blank"> Tour Places </a></li>
+  <li><a href="https://serhatkoyuncu.github.io/Find-the-number-game/" target="_blank"> Find The Number Game </a></li>
+  <li><a href="https://serhatkoyuncu.github.io/Ios-Calculator/" target="_blank"> Ios Calculator </a></li>
+</ul>
 
 </p>
 <p align="left">
