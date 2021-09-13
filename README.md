@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 📽 Projects
 <ul>
   <li><a href="https://fire-contact-app.herokuapp.com/" target="_blank"> Fire Contact App </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Movie-App" target="_blank"> Movie App </a></li>
+  <li><a href="https://movie-app-clrswy.herokuapp.com/" target="_blank"> Movie App </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Recipe-App" target="_blank"> Recipe App </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Random-User-App/" target="_blank"> Random User App </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Language-Card/" target="_blank"> Language Card </a></li>
