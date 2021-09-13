@@ -2,7 +2,7 @@
 
 **serhatkoyuncu/serhatkoyuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**huseyintosun/huseyintosun** is my another Github account.
+<a href="https://github.com/huseyintosun"> <b>huseyintosun/huseyintosun</b> </a> is my another Github account.
 
 Here are some ideas to get you started:
 
