@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 📽 Projects
 <ul>
+  <li><a href="https://react-blogpage.herokuapp.com/" target="_blank"> React Blog Page </a></li>
   <li><a href="https://fire-contact-app.herokuapp.com/" target="_blank"> Fire Contact App </a></li>
   <li><a href="https://movie-app-clrswy.herokuapp.com/" target="_blank"> Movie App </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Recipe-App" target="_blank"> Recipe App </a></li>
