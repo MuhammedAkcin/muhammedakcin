@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="55"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn-images-1.medium.com/max/2050/1*BKssrX-qEmyN6YaRNTvNlw.png" alt="material-ui" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC_400x400.jpg" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 
 ## 💻 Backend
