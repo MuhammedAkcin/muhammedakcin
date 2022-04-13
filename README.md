@@ -2,12 +2,12 @@
 
 **serhatkoyuncu/serhatkoyuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://github.com/huseyintosun"> <b>huseyintosun/huseyintosun</b> </a> is my another Github account.
+<!-- <a href="https://github.com/huseyintosun"> <b>huseyintosun/huseyintosun</b> </a> is my another Github account. -->
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend Developer
-- 👯 I’m looking to collaborate on Clarusway
+- 👯 I’m looking to collaborate on Clarusway and Niceye Group IT Solutions
 - 💬 Ask me about whatever you want.
 
 
