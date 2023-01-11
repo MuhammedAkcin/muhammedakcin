@@ -1,6 +1,6 @@
 ### Hi there I'm Muhammed Akcin 👋
 
-**MuhammedAkcin/muhammedakcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// **MuhammedAkcin/muhammedakcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-akcin/)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16300377/muhammed)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:makcin1907@icloud.com)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mttrkgl1907@gmail.com)
 
 
 
@@ -63,6 +63,12 @@ Here are some ideas to get you started:
 
 
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEKaZw6ljAR83A3iewFFWCrRPkY73e76x6ZnnByUAyiQ&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-pu3N1TsPFqrZAIevonIDsdObg7plaHQIbhyTGMDhA&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQreBeVqFmxHSj97e-CIawQmg4LBho1Iml1j8G-k3nIVA&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ig-LibtKaBNfnOS0mT5zb7q71lOj9nI307D1lW3vag&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/52px-Ansible_logo.svg.png" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-pu3N1TsPFqrZAIevonIDsdObg7plaHQIbhyTGMDhA&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-pu3N1TsPFqrZAIevonIDsdObg7plaHQIbhyTGMDhA&s" height="60"/> </a>
 
 
 
