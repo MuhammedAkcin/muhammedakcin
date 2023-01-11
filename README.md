@@ -68,14 +68,13 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ig-LibtKaBNfnOS0mT5zb7q71lOj9nI307D1lW3vag&s" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQRnaYqKku48jU_QJpjKxjLPY2OdWsljAFw&usqp=CAU" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-pu3N1TsPFqrZAIevonIDsdObg7plaHQIbhyTGMDhA&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png?20200109082328" height="60"/> </a>
 
 
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=serhatkoyuncu&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=serhatkoyuncu&theme=buefy&" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatkoyuncu&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=buefy&" alt="my commit status" width="70%" /> </p>
+
 
 
