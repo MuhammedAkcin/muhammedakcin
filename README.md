@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## ⚙ Tools
 
 
-<a href="#" target="_blank"> <img src="https://lms.clarusway.com/pluginfile.php/41083/course/section/4306/devops.jpg" height="250"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEKaZw6ljAR83A3iewFFWCrRPkY73e76x6ZnnByUAyiQ&s" height="60"/> </a>
 
 
 
