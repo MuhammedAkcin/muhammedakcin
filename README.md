@@ -1,25 +1,25 @@
-### Hi there I'm Serhat Koyuncu 👋
+### Hi there I'm Muhammed Akcin 👋
 
-**serhatkoyuncu/serhatkoyuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MuhammedAkcin/muhammedakcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- <a href="https://github.com/huseyintosun"> <b>huseyintosun/huseyintosun</b> </a> is my another Github account. -->
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend Developer
-- 👯 I’m looking to collaborate on Clarusway and Niceye Group IT Solutions
+- 🔭 I’m currently working on AWS/DevOps 
+- 👯 I’m looking to collaborate on Clarusway 
 - 💬 Ask me about whatever you want.
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatkoyuncu/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16560934/serhatkoyuncu)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:serhat_koyuncu@icloud.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serhatkoyuncu)
-[![website](https://img.shields.io/badge/%20-codementor-orange?&style=for-the-badge&logo=phonebook&logoColor=white)](https://www.codementor.io/@serhatkoyuncu)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-akcin/)
+[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16300377/muhammed)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:makcin1907@icloud.com)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatkoyuncu" alt="serhatkoyuncu" /> </p>
 
-## 📽 Projects
+<!-- ## 📽 Projects 
 <ul>
   <li><a href="https://django-weather-appv1.herokuapp.com/" target="_blank"> Django Basic Weather App </a></li>
   <li><a href="https://react-blogpage.herokuapp.com/" target="_blank"> React Blog Page </a></li>
@@ -33,18 +33,18 @@ Here are some ideas to get you started:
   <li><a href="https://serhatkoyuncu.github.io/Tour-Places/" target="_blank"> Tour Places </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Find-the-number-game/" target="_blank"> Find The Number Game </a></li>
   <li><a href="https://serhatkoyuncu.github.io/Ios-Calculator/" target="_blank"> Ios Calculator </a></li>
-</ul>
+</ul> -->
 
-## 💻 Frontend
+## 💻 AWS
 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" alt="jquery" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC_400x400.jpg" alt="material-ui" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2.jpg" alt="html" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-ECS-and-EKS.jpg" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-IAM-400x200.jpg" alt="js" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-VPC-300x150.jpg" alt="jquery" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-Lambda.jpg" alt="react" width="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-CloudWatch.jpg" alt="redux" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-RDS.jpg" alt="bootstrap" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-DynamoDB.jpg" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 
 ## 💻 Backend
