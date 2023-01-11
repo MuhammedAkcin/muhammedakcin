@@ -45,7 +45,13 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-CloudWatch.jpg" alt="redux" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-RDS.jpg" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-DynamoDB.jpg" alt="material-ui" height="55"/> </a>
-<a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2-Auto-Scaling.jpg" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-Elastic-Load-Balancing-AWS-ELB.jpg" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-CloudFront.jpg" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-Storage-Gateway.jpg" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EFS.jpg" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EBS.jpg" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-S3-and-Glacier.jpg" alt="semantic-ui" height="60"/> </a>
 
 ## 💻 Backend
 
