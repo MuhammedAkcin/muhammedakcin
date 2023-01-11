@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ## 💻 Backend
 
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
-<a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://img.icons8.com/fluency/2x/java-coffee-cup-logo.png" alt="django" height="50"/> </a>
 
 ## ⚙ Tools
 
