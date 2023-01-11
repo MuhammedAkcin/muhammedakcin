@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatkoyuncu" alt="serhatkoyuncu" /> </p>
+
 
 
 
