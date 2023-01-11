@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ## 💻 AWS
 
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2.jpg" alt="html" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2.jpg" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-ECS-and-EKS.jpg" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-Route-53.jpg" alt="js" height="60"/> </a>
