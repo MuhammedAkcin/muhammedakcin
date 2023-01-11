@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-ECS-and-EKS.jpg" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-IAM-400x200.jpg" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-VPC-300x150.jpg" alt="jquery" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-Lambda.jpg" alt="react" width="60"/> </a>
+<a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-IAM.jpg" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-CloudWatch.jpg" alt="redux" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-RDS.jpg" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-DynamoDB.jpg" alt="material-ui" height="55"/> </a>
