@@ -1,4 +1,4 @@
-### Hi there I'm Muhammed Akcin 👋
+### Hi there, I'm Muhammed Akcin 👋
 
 
 
