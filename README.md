@@ -1,6 +1,6 @@
 ### Hi there I'm Muhammed Akcin 👋
 
-// **MuhammedAkcin/muhammedakcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -19,21 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatkoyuncu" alt="serhatkoyuncu" /> </p>
 
-<!-- ## 📽 Projects 
-<ul>
-  <li><a href="https://django-weather-appv1.herokuapp.com/" target="_blank"> Django Basic Weather App </a></li>
-  <li><a href="https://react-blogpage.herokuapp.com/" target="_blank"> React Blog Page </a></li>
-  <li><a href="https://fire-contact-app.herokuapp.com/" target="_blank"> Fire Contact App </a></li>
-  <li><a href="https://movie-app-clrswy.herokuapp.com/" target="_blank"> Movie App </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Recipe-App" target="_blank"> Recipe App </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Random-User-App/" target="_blank"> Random User App </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Language-Card/" target="_blank"> Language Card </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Task-Tracker/" target="_blank"> Task Tracker </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Bootstrap-Final-Project/" target="_blank"> Bootstrap Final Project </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Tour-Places/" target="_blank"> Tour Places </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Find-the-number-game/" target="_blank"> Find The Number Game </a></li>
-  <li><a href="https://serhatkoyuncu.github.io/Ios-Calculator/" target="_blank"> Ios Calculator </a></li>
-</ul> -->
+
 
 ## 💻 AWS
 
