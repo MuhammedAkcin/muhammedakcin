@@ -60,7 +60,9 @@ Here are some ideas to get you started:
 
 </p>
 <p align="left">
-<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammedAkcin&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D&background=D3CDC3)](https://git.io/streak-stats)" width="70%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammedAkcin&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=buefy&" alt="my commit status" width="49%" /> </p>
+</p>
 
 
 
