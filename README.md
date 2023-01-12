@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 </p>
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=gotham&hide_border=false&border_radius=13&locale=en&date_format=M+j%5B%2C+Y%5D&mode=daily&properties=currStreakLabel" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=vision-friendly-dark&hide_border=false&border_radius=13&locale=en&date_format=M+j%5B%2C+Y%5D&mode=daily&properties=currStreakLabel" alt="my commit status" width="49%" /> </p>
 </p>
 
 
