@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💻 AWS
 
-<a href="#" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ec2" height="70"/> </a>
+
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2.jpg" alt="ec2" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2-Auto-Scaling.jpg" alt="asg" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-ECS-and-EKS.jpg" alt="css" height="70"/> </a>
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-Route-53.jpg" alt="semantic-ui" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-VPC.jpg" alt="semantic-ui" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/AWS-Elastic-Load-Balancing-AWS-ELB.jpg" alt="semantic-ui" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ec2" height="70"/> </a>
 
 ## 💻 Backend
 
