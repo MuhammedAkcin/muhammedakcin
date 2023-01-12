@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS/DevOps 
-- 👯 I’m looking to collaborate on Clarusway 
+- 👯 I’m looking to collaborate on Clarusway and Nioya Tech
 - 💬 Ask me about whatever you want.
 
 
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQRnaYqKku48jU_QJpjKxjLPY2OdWsljAFw&usqp=CAU" height="60" width="75"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png?20200109082328" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaULcaxlVVnbD_CHUgEdg2ZmLR_7YYj0AMR-Y2UCAlKA&s" height="60"/> </a>
 
 
 
