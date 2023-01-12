@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 </p>
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=monokai&border_radius=15" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=leafy&border_radius=15" alt="my commit status" width="49%" /> </p>
 
 
 
