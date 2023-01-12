@@ -65,9 +65,8 @@ Here are some ideas to get you started:
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedAkcin&theme=theme=dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammedAkcin&theme=dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAkcin&theme=dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAkcin&theme=dark&show_icons=true&layout=compact" alt="languages" width="50%" > </p>
 
 
