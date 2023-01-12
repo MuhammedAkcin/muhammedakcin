@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💻 AWS
 
-<a href="#" target="_blank"> <img src="https://media.licdn.com/dms/image/sync/C5627AQE-pTAgIbYIhQ/articleshare-shrink_1280_800/0/1672848896269?e=1674100800&v=beta&t=9Vj3YyK4AmHFN34DELU2l4oVsPUcrlEBhwjvE3O_ATI" alt="ec2" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="ec2" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2.jpg" alt="ec2" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-EC2-Auto-Scaling.jpg" alt="asg" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://digitalcloud.training/wp-content/uploads/2022/01/Amazon-ECS-and-EKS.jpg" alt="css" height="70"/> </a>
