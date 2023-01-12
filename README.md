@@ -56,8 +56,10 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ig-LibtKaBNfnOS0mT5zb7q71lOj9nI307D1lW3vag&s" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJv9G69S2OVSHJHVugDRGGQ9JfBDrYv3CL_9pyv_xPsw&s" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQRnaYqKku48jU_QJpjKxjLPY2OdWsljAFw&usqp=CAU" height="60" width="75"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png?20200109082328" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaULcaxlVVnbD_CHUgEdg2ZmLR_7YYj0AMR-Y2UCAlKA&s" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" height="60"/> </a>
+
 
 
 
