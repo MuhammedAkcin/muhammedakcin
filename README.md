@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS/DevOps an QA 
-- 👯 I’m looking to collaborate on Clarusway and Nioya Tech
+- 👯 I’m looking to collaborate on Clarusway , Nioya Tech and SyntaxTech
 - 💬 Ask me about whatever you want.
 
 
