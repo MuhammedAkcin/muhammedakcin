@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AWS/DevOps an QA 
+- 🔭 I’m currently working on AWS/DevOps and QA 
 - 👯 I’m looking to collaborate on Clarusway , Nioya Tech and SyntaxTech
 - 💬 Ask me about whatever you want.
 
